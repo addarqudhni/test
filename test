@@ -1,0 +1,3 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="AstroArena" tvg-name="801 Astro Arena" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png" group-title="Sports",801 Astro Arena
+# http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
